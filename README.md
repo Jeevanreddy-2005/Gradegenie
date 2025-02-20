@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-Made with ✌🏻 by [Harshavardhan M](https://www.linkedin.com/in/harshavardhan-md)
+(https://www.linkedin.com/in/harshavardhan-md)
 
 [⬆ Back to Top](#-grade-genie)
 
